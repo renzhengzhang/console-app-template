@@ -42,6 +42,7 @@
       <version>${commons-lang3.version}</version>
     </dependency>
 
+    <!-- Lombok -->
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
